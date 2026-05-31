@@ -21,7 +21,6 @@ $\color{#143085}\large{\text{PLAY LAMBYLAND}}$ <br>
 $\color{#143085}\large{\text{TODAY!}}$ <br>
 
 $\color{#297fb6}{\text{Go to lambyland.net on your browser and join our whimsical virtual world!}}$ <br>
-$\color{#297fb6}{\text{Unofficial Discord Server: .gg/P67gJwbQCP }}$ <br>
 
 <p></p>
 
